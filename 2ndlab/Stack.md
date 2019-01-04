@@ -1,18 +1,17 @@
-#Stack	
-* 
-    * A stack is one of the most important and useful non-primitive linear            data structure in computer science.
-    * It is an ordered collection of items into which new data items may be added/inserted and from which items may be deleted
-    at only one end, called the __top__ of the stack.
-    * As all the addition and deletion in a stack is done from the __top__ of the   stack, the last added element will be first
-    removed from the stack.
-    * That is why the stack is also called __Last-in-First-out (LIFO)__.
-    * The most frequently accessible element in the stack is the __top__ most elements, whereas the least accessible element is
-    the __bottom__ of the stack.
-    * The insertion (or addition) operation is referred to as __push__, and the deletion (or remove) operation as __pop__.
-    * A stack is said to be empty or underflow, if the stack contains no elements.
-    * At this point __the top of the stack__ is present at the bottom of the stack. And it is overflow when the stack becomes
-    full, i.e., no other elements can be pushed onto the stack. At this point
-    the __top pointer is at the highest location of the stack__.
+# Stack	
+    1. A stack is one of the most important and useful non-primitive linear data structure in computer science.
+    2. It is an ordered collection of items into which new data items may be added/inserted and from which items may be deleted
+      at only one end, called the __top__ of the stack.
+    3. As all the addition and deletion in a stack is done from the __top__ of the   stack, the last added element will be first
+      removed from the stack.
+    4. That is why the stack is also called __Last-in-First-out (LIFO)__.
+    5. The most frequently accessible element in the stack is the __top__ most elements, whereas the least accessible element is
+      the __bottom__ of the stack.
+    6. The insertion (or addition) operation is referred to as __push__, and the deletion (or remove) operation as __pop__.
+    7. A stack is said to be empty or underflow, if the stack contains no elements.
+    8. At this point __the top of the stack__ is present at the bottom of the stack. And it is overflow when the stack becomes
+      full, i.e., no other elements can be pushed onto the stack. At this point
+      the __top pointer is at the highest location of the stack__.
 
 ## Mainly the following three basic operations are performed in the stack:
 
