@@ -1,5 +1,5 @@
-* #Stack	
- 
+#Stack	
+* 
     * A stack is one of the most important and useful non-primitive linear            data structure in computer science.
     * It is an ordered collection of items into which new data items may be added/inserted and from which items may be deleted at only one end, called the __top__ of the stack.
     * As all the addition and deletion in a stack is done from the __top__ of the   stack, the last added element will be first removed from the stack.
