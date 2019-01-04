@@ -21,4 +21,6 @@ __Data structures:__
         * For example, trying to search an element in array is the problem, so if the input array is sorted then time complexity will be less
         * If the input array is unsorted then time complexity will be more
 
-_So data structures and algorithms are plays very crucial role for programmers_
+_So data structures and algorithms plays very crucial role for programmers_
+
+<a href="https://www.quora.com/Why-should-I-learn-data-structures-and-algorithms"> Learn More </a>
