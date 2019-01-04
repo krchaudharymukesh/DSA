@@ -2,25 +2,25 @@
 #include <stdio.h>
 #define size 100
 int main(){
-	int array[size];
-	int n,index,position;
+	int array[size],i;
+	int n,index,position,num;
 	printf("Enter the size of array: ");
 	scanf("%d",&n);
 	printf("Enter the element in array: \n");
-	for(int i=0; i<n; i++){
+	for(i=0; i<n; i++){
 		scanf("%d",&array[i]);
 	}
 
 	printf("The array elements are: \n");
-	for(int i=0;i<n;i++){
+	for(i=0;i<n;i++){
 		printf("%d \t",array[i]);
 	}
     
-    int num;
+    
     printf("\nEnter the element you want to search: ");
     scanf("%d",&num);
     
-	for(int i=0;i<n;i++){
+	for(i=0;i<n;i++){
         if(array[i] == num){
             printf("Array is found at index %d\n",i);
         }
